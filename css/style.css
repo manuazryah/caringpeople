@@ -1,0 +1,66 @@
+.mkdf-main-menu>ul>li.mkdf-active-item>a, body:not(.mkdf-menu-item-first-level-bg-color) .mkdf-main-menu>ul>li:hover>a {
+    color: #13a8b0 !important;
+}
+.bbp-login-form .user-submit:not(.mkdf-btn-custom-hover-color):hover, .bbpress div:not(.bbp-logged-in)>.submit:not(.mkdf-btn-custom-hover-color):hover, .mkdf-btn.mkdf-btn-hover-outline:not(.mkdf-btn-custom-hover-color):hover, .tribe-events-button:not(.mkdf-btn-custom-hover-color):hover, .tribe-events-read-more:not(.mkdf-btn-custom-hover-color):hover, .woocommerce .button:not(.mkdf-btn-custom-hover-color):hover:not(.add_to_cart_button){
+
+}
+a{
+    text-decoration: none;
+}
+.contact-subtn{
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 50px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: capitalize;
+    letter-spacing: 0px;
+    background-color: rgb(19, 142, 175);
+    border-color: rgb(19, 142, 175);
+    border-width: 2px;
+    border-radius: 40px;
+    width: auto;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-top: 14px;
+    -webkit-transition: all .15s ease-out;
+    -moz-transition: all .15s ease-out;
+    transition: all .15s ease-out;
+}
+
+.contact-submit-btn{
+    background-color: #303030;
+    color: white;
+    height: 43px;
+    font-weight: bold;
+    padding: 7px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border: 1px solid #13a8b0;
+    cursor: pointer;
+}
+.contact-submit-btn:hover {
+    background-color: #f7f7f7;
+    color: #2a2a2a;
+}
+.mobile_login{
+        position: absolute;
+        right: 0px;
+        top: 35px;
+        z-index: 2222;
+}
+.mkdf-mobile-header .mkdf-grid{
+        position: relative;
+}
+.mobile_login .mkdf-side-menu-button-opener.large{
+        display: flex;
+}
+.mobile_login .mkdf-side-menu-button-opener.large span{
+        margin-right: 5px;
+}
+.mkdf-mobile-header .mkdf-mobile-menu-opener {
+        z-index: 90000;
+}

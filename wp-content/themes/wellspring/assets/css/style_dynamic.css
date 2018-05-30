@@ -1,0 +1,198 @@
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/assets/custom-styles/general-custom-styles.php wellspring_mikado_design_styles function */
+.mkdf-preload-background { background-image: url(../img/preload_pattern.png) !important;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/assets/custom-styles/general-custom-styles.php wellspring_mikado_design_styles function */
+.mkdf-boxed .mkdf-wrapper { background-attachment: fixed;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 ::-webkit-input-placeholder { color: #a4a4a4;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 :-moz-placeholder { color: #a4a4a4;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 ::-moz-placeholder { color: #a4a4a4;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 :-ms-input-placeholder { color: #a4a4a4;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea { height: 100px;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { color: #a4a4a4;font-size: 14px;line-height: 36px;font-family: Open Sans;font-style: normal;font-weight: 600;text-transform: capitalize;letter-spacing: 0px;background-color: rgba(17, 17, 17, 0.2);border-color: rgba(72, 72, 72, 1);border-width: 1px;border-radius: 0px;padding-top: 7px;padding-bottom: 10px;margin-top: 2px;margin-bottom: 2px;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input:focus::-webkit-input-placeholder, .cf7_custom_style_1 textarea:focus::-webkit-input-placeholder { color: #a4a4a4;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input:focus:-moz-placeholder, .cf7_custom_style_1 textarea:focus:-moz-placeholder { color: #a4a4a4;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input:focus::-moz-placeholder, .cf7_custom_style_1 textarea:focus::-moz-placeholder { color: #a4a4a4;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input:focus:-ms-input-placeholder, .cf7_custom_style_1 textarea:focus:-ms-input-placeholder { color: #a4a4a4;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz:focus { color: #a4a4a4;background-color: rgba(17, 17, 17, 0.2);border-color: rgba(72, 72, 72, 1);}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_button_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { color: #ffffff;font-size: 13px;height: 45px;font-family: Open Sans;font-style: normal;font-weight: 700;text-transform: capitalize;letter-spacing: 0px;background-color: rgb(19, 168, 176);border-width: 0px;border-radius: 30px;padding-left: 44px;padding-right: 44px;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_button_hover_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: rgb(19, 168, 176);background-color: rgba(255, 255, 255, 1);}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 ::-webkit-input-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 :-moz-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 ::-moz-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 :-ms-input-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea { height: 200px;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { color: #969696;font-size: 14px;font-family: Open Sans;font-style: normal;font-weight: 400;text-transform: none;letter-spacing: 0px;background-color: rgba(246, 246, 246, 1);border-color: rgba(242, 242, 242, 1);border-width: 1px;border-radius: 0px;padding-top: 18px;padding-right: 20px;padding-bottom: 16px;padding-left: 20px;margin-bottom: 10px;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus::-webkit-input-placeholder, .cf7_custom_style_2 textarea:focus::-webkit-input-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus:-moz-placeholder, .cf7_custom_style_2 textarea:focus:-moz-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus::-moz-placeholder, .cf7_custom_style_2 textarea:focus::-moz-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus:-ms-input-placeholder, .cf7_custom_style_2 textarea:focus:-ms-input-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz:focus { color: #969696;background-color: rgba(246, 246, 246, 1);border-color: rgb(19, 142, 175);}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_label_styles_2 function */
+.cf7_custom_style_2 p { color: #969696;font-size: 14px;font-family: Open Sans;font-style: normal;font-weight: 400;text-transform: none;letter-spacing: 0px;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_button_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit { color: #ffffff;font-size: 16px;height: 54px;font-family: Open Sans;font-style: normal;font-weight: 700;text-transform: capitalize;letter-spacing: 0px;background-color: rgb(19, 142, 175);border-color: rgb(19, 142, 175);border-width: 2px;border-radius: 30px;padding-left: 48px;padding-right: 48px;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_button_hover_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #4fbf70;background-color: rgba(255, 255, 255, 0);border-color: rgb(19, 142, 175);}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 ::-webkit-input-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 :-moz-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 ::-moz-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 :-ms-input-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz { color: #969696;font-size: 14px;font-family: Open Sans;font-style: normal;font-weight: 400;text-transform: none;letter-spacing: 0px;background-color: rgba(246, 246, 246, 1);border-color: rgba(242, 242, 242, 1);border-width: 1px;border-radius: 0px;padding-top: 18px;padding-right: 20px;padding-bottom: 16px;padding-left: 20px;margin-bottom: 25px;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_3 function */
+.cf7_custom_style_3 input:focus::-webkit-input-placeholder, .cf7_custom_style_3 textarea:focus::-webkit-input-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_3 function */
+.cf7_custom_style_3 input:focus:-moz-placeholder, .cf7_custom_style_3 textarea:focus:-moz-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_3 function */
+.cf7_custom_style_3 input:focus::-moz-placeholder, .cf7_custom_style_3 textarea:focus::-moz-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_3 function */
+.cf7_custom_style_3 input:focus:-ms-input-placeholder, .cf7_custom_style_3 textarea:focus:-ms-input-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz:focus { color: #969696;background-color: rgba(246, 246, 246, 1);border-color: rgb(19, 142, 175);}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_label_styles_3 function */
+.cf7_custom_style_3 p { color: #969696;font-size: 14px;font-family: Open Sans;font-style: normal;font-weight: 400;text-transform: none;letter-spacing: 0px;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_button_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit { font-size: 15px;height: 50px;font-family: Open Sans;font-style: normal;font-weight: 700;text-transform: capitalize;letter-spacing: 0px;background-color: rgb(19, 142, 175);border-color: rgb(19, 142, 175);border-width: 2px;border-radius: 40px;padding-left: 44px;padding-right: 44px;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_button_hover_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: ;background-color: rgba(255, 255, 255, 0);border-color: rgb(19, 142, 175);}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_4 function */
+.cf7_custom_style_4 ::-webkit-input-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_4 function */
+.cf7_custom_style_4 :-moz-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_4 function */
+.cf7_custom_style_4 ::-moz-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_4 function */
+.cf7_custom_style_4 :-ms-input-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_text_styles_4 function */
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_4 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_4 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-quiz { color: #969696;font-size: 15px;font-family: Open Sans;font-style: normal;font-weight: 400;text-transform: none;letter-spacing: 0px;background-color: rgba(255, 255, 255, 1);border-color: rgba(242, 242, 242, 1);border-width: 1px;border-radius: 0px;padding-top: 18px;padding-right: 20px;padding-bottom: 16px;padding-left: 20px;margin-top: 0px;margin-bottom: 0px;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_4 function */
+.cf7_custom_style_4 input:focus::-webkit-input-placeholder, .cf7_custom_style_4 textarea:focus::-webkit-input-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_4 function */
+.cf7_custom_style_4 input:focus:-moz-placeholder, .cf7_custom_style_4 textarea:focus:-moz-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_4 function */
+.cf7_custom_style_4 input:focus::-moz-placeholder, .cf7_custom_style_4 textarea:focus::-moz-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_4 function */
+.cf7_custom_style_4 input:focus:-ms-input-placeholder, .cf7_custom_style_4 textarea:focus:-ms-input-placeholder { color: #969696;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_focus_styles_4 function */
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_4 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_4 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-quiz:focus { color: #969696;background-color: rgba(255, 255, 255, 1);border-color: rgb(19, 142, 175);}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_label_styles_4 function */
+.cf7_custom_style_4 p { color: #969696;font-size: 15px;font-family: Open Sans;font-style: normal;font-weight: 400;text-transform: none;letter-spacing: 0px;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_button_styles_4 function */
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-submit { color: #ffffff;font-size: 16px;height: 50px;font-family: Open Sans;font-style: normal;font-weight: 700;text-transform: capitalize;letter-spacing: 0px;background-color: rgb(19, 142, 175);border-color: rgb(19, 142, 175);border-width: 2px;border-radius: 30px;padding-left: 44px;padding-right: 44px;margin-top: 0px;margin-bottom: 0px;}
+
+/* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/contactform7/custom-styles/contact-form.php wellspring_mikado_contact_form7_button_hover_styles_4 function */
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #4fbf70;background-color: rgba(255, 255, 255, 0);border-color: rgb(19, 142, 175);}
+
+
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                
+        
+                
+        /* generated in /www/sites/wellspring.mikado-themes.com/files/html/wp-content/themes/wellspring/framework/modules/woocommerce/custom-styles/woocommerce.php wellspring_mikado_woo_single_style function */
+.single.single-product .product_meta { display: none;}
+

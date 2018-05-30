@@ -1,0 +1,70 @@
+@media (max-width: 992px){
+        .owl-wrapper{
+                width: 100% !important;
+        }
+        .owl-item{
+                margin-bottom: 30px;
+        }
+        #style-selector .scrol-box{
+                max-height: 300px;
+        }
+}
+
+@media (max-width: 768px){
+        #btnright{
+                display: none;
+        }
+        .btn-close{
+                display: none;
+        }
+        #style-selector{
+                display: none;
+        }
+        .control-btn {
+                top: 48%;
+                right: 21%;
+                position: fixed;
+        }
+}
+
+@media (max-width: 480px){
+        .owl-wrapper{
+                width: 100% !important;
+        }
+        .owl-item{
+                width: 100% !important;
+                margin-bottom: 30px;
+        }
+        #about .mkdf-team-name {
+                font-size: 14px;
+        }
+        #about .mkdf-team.main-info-below-image .mkdf-team-info .mkdf-team-position{
+                font-size: 12px;
+        }
+        .mkdf-section-title-holder .mkdf-section-title.mkdf-section-title-large{
+                font-size: 32px;
+        }
+        .mkdf-item-title{
+                font-size: 20px;
+        }
+        #style-selector{
+                width: 75%;
+        }
+        .error-cntnt{
+                top: 7%;
+        }
+        .error-cntnt h1{
+                font-size: 35px;
+        }
+        .control-btn {
+                top: 40%;
+                right: 13%;
+                position: fixed;
+        }
+
+}
+@media (min-width: 992px){
+        .mkdf-vertical-align-containers .mkdf-position-right {
+                float:none;
+        }
+}

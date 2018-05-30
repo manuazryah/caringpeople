@@ -1,0 +1,20 @@
+[13-Apr-2017 07:03:12 UTC] PHP Notice:  Undefined index: last-name in /home/caringpeopl/public_html/software/frontend/views/layouts/main.php on line 26
+[13-Apr-2017 07:03:12 UTC] PHP Notice:  Undefined index: phone in /home/caringpeopl/public_html/software/frontend/views/layouts/main.php on line 39
+[13-Apr-2017 07:04:38 UTC] PHP Notice:  Undefined index: last-name in /home/caringpeopl/public_html/software/frontend/views/layouts/main.php on line 26
+[13-Apr-2017 07:04:38 UTC] PHP Notice:  Undefined index: phone in /home/caringpeopl/public_html/software/frontend/views/layouts/main.php on line 39
+[13-Apr-2017 08:30:22 UTC] PHP Notice:  Undefined index: last-name in /home/caringpeopl/public_html/software/frontend/views/layouts/main.php on line 26
+[13-Apr-2017 08:30:22 UTC] PHP Notice:  Undefined index: phone in /home/caringpeopl/public_html/software/frontend/views/layouts/main.php on line 39
+[13-Apr-2017 10:25:53 UTC] PHP Fatal error:  Class 'common\models\ContactUs' not found in /home/caringpeopl/public_html/software/frontend/controllers/SiteController.php on line 115
+[28-Apr-2017 06:46:48 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/caringpeopl/public_html/frontend/controllers/SiteController.php on line 176
+[28-Apr-2017 06:47:10 UTC] PHP Parse error:  syntax error, unexpected 'Yii' (T_STRING) in /home/caringpeopl/public_html/frontend/controllers/SiteController.php on line 176
+[26-Jun-2017 09:27:55 UTC] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/caringpeopl/public_html/frontend/controllers/SiteController.php on line 156
+[23-Oct-2017 15:54:36 Asia/Kolkata] PHP Warning:  The use statement with non-compound name 'yii¥helpers¥Html' has no effect in /home/caringpeopl/public_html/frontend/views/layouts/main.php on line 5
+[23-Oct-2017 15:54:36 Asia/Kolkata] PHP Warning:  The use statement with non-compound name 'yii¥bootstrap¥Nav' has no effect in /home/caringpeopl/public_html/frontend/views/layouts/main.php on line 6
+[23-Oct-2017 15:54:36 Asia/Kolkata] PHP Warning:  The use statement with non-compound name 'yii¥bootstrap¥NavBar' has no effect in /home/caringpeopl/public_html/frontend/views/layouts/main.php on line 7
+[23-Oct-2017 15:54:36 Asia/Kolkata] PHP Warning:  The use statement with non-compound name 'yii¥widgets¥Breadcrumbs' has no effect in /home/caringpeopl/public_html/frontend/views/layouts/main.php on line 8
+[23-Oct-2017 15:54:36 Asia/Kolkata] PHP Warning:  The use statement with non-compound name 'frontend¥assets¥AppAsset' has no effect in /home/caringpeopl/public_html/frontend/views/layouts/main.php on line 9
+[23-Oct-2017 15:54:36 Asia/Kolkata] PHP Warning:  The use statement with non-compound name 'common¥widgets¥Alert' has no effect in /home/caringpeopl/public_html/frontend/views/layouts/main.php on line 10
+[23-Oct-2017 15:54:36 Asia/Kolkata] PHP Warning:  The use statement with non-compound name 'yii¥widgets¥ActiveForm' has no effect in /home/caringpeopl/public_html/frontend/views/layouts/main.php on line 11
+[23-Oct-2017 15:54:36 Asia/Kolkata] PHP Fatal error:  Class 'AppAsset' not found in /home/caringpeopl/public_html/frontend/views/layouts/main.php on line 13
+[09-Nov-2017 09:48:29 Asia/Kolkata] PHP Fatal error:  Call to a member function load() on null in /home/caringpeopl/public_html/frontend/controllers/DashboardController.php on line 141
+[09-Nov-2017 10:15:10 Asia/Kolkata] PHP Fatal error:  Call to a member function load() on null in /home/caringpeopl/public_html/frontend/controllers/DashboardController.php on line 141
