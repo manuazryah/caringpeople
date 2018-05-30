@@ -1,0 +1,127 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : May 4, 2017, 12:44:20 PM
+    Author     : user
+*/
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700");
+body,p,tr,td,table,div,span{
+    font-family: 'Roboto', sans-serif;
+}
+body h6,h1,h2,h3,h4,h5,p,b,tr,td,span,th,div{
+    color:#525252 !important;
+}
+@page {
+    size: A4;
+    /*         margin: 40px;
+             margin-top: 100px;*/
+}
+@media print{
+
+    .table th {
+        /*border: .1px solid #969696;*/
+        color: #525252;
+        font-size: 11px;
+        font-weight: bold;
+    }
+    .table td {
+        /*border: .1px solid #969696;*/
+        font-size: 8px;
+        text-align: center;
+        padding: 3px;
+    }
+
+
+
+
+}
+.main-tabl{
+    margin: auto;
+}
+/*thead { display: table-header-group;   }*/
+tfoot{display: table-footer-group;}
+table { page-break-inside:auto;}
+tr{ page-break-inside:avoid; page-break-after:auto; }
+
+/*//h6 {page-break-before: always}*/
+/*//table {page-break-after: always}*/
+table.table{
+    /*border: .1px solid #969696;*/
+    border-collapse: collapse;
+    width:100%;
+}
+.table th {
+    color: #525252;
+    font-size: 13px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.table td {
+    font-size: 12px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.tbl{
+    border: 1px solid #525252 ! important;
+}
+.tb2 td {
+    font-size: 9px;
+}
+.main{
+    width:900px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    white-space: nowrap;
+}
+.header{
+    font-size: 12.5px;
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
+    /*border-bottom: 2px solid #9E9E9E;*/
+}
+.main-left{
+    padding-top: 12px;
+    float: left;
+}
+.main-right{
+    float: right;
+}
+
+.footer{
+    font-size: 10.5px;
+    display: inline-block;
+    width: 100%;
+    color:red !important;
+    border-top: 2px solid #bcbcbc;
+}
+.header table{
+    margin-top: 12px;
+}
+.invoice-tbl{
+    float:right;
+}
+.invoice-tbl td{
+    text-align: right;
+}
+.invoice-tbl-sub{
+    font-size: 15px;
+    color: #6c6767 !important;
+    font-weight: normal;
+}
+.invoice-tb2-sub{
+    font-size: 15px;
+    color: black !important;
+    font-weight: normal;
+    padding-bottom: 12px;
+    text-align: right;
+}
+.sub-tot{
+    font-weight: 600;
+}

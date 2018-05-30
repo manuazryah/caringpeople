@@ -1,0 +1,645 @@
+/**
+ *
+ * Apply your custom CSS here
+ *
+*/
+
+body {
+}
+
+a {
+}
+
+.panel{
+        /*	background-color: #ffffd9;*/
+}
+.panel .panel-heading>.panel-title {
+        float: left;
+        font-size: 17px;
+        text-transform: uppercase;
+        font-weight: bold;
+        color: #b60d14;
+}
+.panel .panel-heading {
+        position: relative;
+        padding: 0;
+        margin: 0;
+        background: 0 0;
+        font-size: 17px;
+        padding-bottom: 15px;
+        border-bottom: 3px solid rgba(39, 41, 42, 0.46);
+}
+table{
+        font-size: 14px;
+}
+table.table tr.filters{
+        /*	background-color: #d4dec6;*/
+}
+.table-striped>tbody>tr:nth-child(odd) {
+        /*        background-color: #f5efb5;*/
+        color: #636b6b;
+        font-size: 13px;
+}
+.table-striped>tbody>tr:nth-child(even) {
+        /*        background-color: #caffe6;*/
+        color: #636b6b;
+        font-size: 13px;
+}
+.table.table-bordered>thead>tr>td, .table.table-bordered>tbody>tr>td, .table.table-bordered>tfood>tr>td, .table.table-bordered>thead>tr>th, .table.table-bordered>tbody>tr>th, .table.table-bordered>tfood>tr>th{
+        border-color: #cdc1c1;
+}
+.table-bordered>thead>tr>th, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>tbody>tr>td, .table-bordered>tfoot>tr>td{
+        border: 1px solid #a7a7a7;
+}
+.table-responsive[data-pattern=priority-columns]>.table-bordered {
+        border: 1px solid #b7b7b7;
+}
+.table>caption+thead>tr:first-child>th, .table>colgroup+thead>tr:first-child>th, .table>thead:first-child>tr:first-child>th, .table>caption+thead>tr:first-child>td, .table>colgroup+thead>tr:first-child>td, .table>thead:first-child>tr:first-child>td {
+        border-top: 1px solid #b7b7b7;
+        background-color: #fff;
+}
+.table>caption+thead>tr:first-child>th, .table>colgroup+thead>tr:first-child>th, .table>thead:first-child>tr:first-child>th, .table>caption+thead>tr:first-child>td, .table>colgroup+thead>tr:first-child>td, .table>thead:first-child>tr:first-child>td {
+        border-top: 1px solid #eaeaea;
+        /*	background-color: #f9cdcd;*/
+}
+
+.table>thead>tr>td, .table>tbody>tr>td, .table>tfood>tr>td, .table>thead>tr>th, .table>tbody>tr>th, .table>tfood>tr>th {
+        padding: 6px 15px;
+}
+
+table.table tr td:last-child {
+        /*display: inline-flex;*/
+        /*border: 0;*/
+}
+table.table tr td:last-child a {
+        padding: 4px;
+        color: #636b6b;
+}
+
+.table>thead:first-child>tr:first-child>th{
+        width: 109px;
+        white-space: nowrap;
+}
+
+.filters .form-control{
+        border: 1px solid #eaeaea;
+}
+.form-control {
+        border: none;
+        color: black;
+        border-bottom: 1px solid #ddd;
+}
+.form-control{
+        width: 100% !important;
+}
+.form-inline .form-group{
+        width: 100%;
+        color:#000000;
+        min-height: 90px;
+}
+.form-group label{
+        color: black;
+}
+.form-group label{
+        margin-left: 7px;
+        color: #777777;
+        font-weight: bold;
+}
+.logout_btn{
+        background-color: rgba(255,255,255,.7) !important;
+        padding-left: 0px !important;
+}
+.left_padd{
+        padding-left: 0;
+        min-height: 100px;
+}
+
+.title_span{
+        font-weight: 700;
+        font-size: 20px;
+}
+.forgot-header{
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-bottom: 63px !important;
+}
+.forgot-header hr {
+        margin-top: 0px;
+        margin-bottom: 0px;
+}
+.sidebar-menu .main-menu {
+        margin-bottom: 0px;
+        margin-top: 0px;
+}
+/*.justified_menu{
+        display: table;
+        width: 100%;
+        table-layout: fixed;
+        border-collapse: separate;
+}*/
+/*.nav.nav-tabs>li.active>a {
+        color: #000 !important;
+        background-color: #f2f2f2  !important;
+        margin-right: 5px  !important;
+        padding-left: 20px  !important;
+        padding-right: 20px  !important;
+        cursor: pointer  !important;
+}
+.nav.nav-tabs>li>a {
+        color: #fff !important;
+        border: none  !important;
+        background-color: rgba(39, 41, 42, 0.65)  !important;
+        margin-right: 5px  !important;
+        padding-left: 20px  !important;
+        padding-right: 20px  !important;
+        cursor: pointer  !important;
+}
+.span-font-size {
+        font-weight: 400;
+        text-align: center;
+        font-size: 16px;
+}
+.nav.nav-tabs+.tab-content {
+        background: #ffffd9;
+        padding: 30px;
+        margin-bottom: 30px;
+}
+
+.alert-padng{
+        padding: 5px 5px 5px 5px !important;
+}
+.limit-text{
+        display: block;
+                width: 100px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+}*/
+
+@media (max-width: 767px){
+        .visible-xs {
+                display: block!important;
+        }
+}
+
+.enqview_heading{
+        text-align: center;
+        text-decoration: underline;
+        font-size: 16px;
+
+
+}
+.enqview_heading p{
+        color: #000;
+}
+.info span{
+        padding: 0px 25px;
+        border-bottom: 1px solid black;
+        font-weight: bold;
+        margin: 23px 0px;
+}
+.content{
+        text-align: justify;
+        line-height: 30px;
+        width: 100%;
+        height: 35px;
+}
+
+.enquiry-hr{
+        margin-top: 5px !important;
+        margin-bottom: 30px !important;
+        border: 0;
+        border-top: 1px solid #eee !important;
+}
+.tab_data_margin{
+        margin-left: 28px;
+        margin-right: 16px;
+}
+/*.panel_body_background{
+        background-color: rgba(151, 152, 152, 0.13);margin-top: -10px;
+}*/
+.proceed_client{
+        margin-top: 18px;
+        height: 36px;
+        width: 126px;
+}
+/*input[type=checkbox]
+{
+         Double-sized Checkboxes
+          -ms-transform: scale(2);  IE
+          -moz-transform: scale(2);  FF
+        -webkit-transform: scale(2);  Safari and Chrome
+         -o-transform: scale(2);  Opera
+        padding: 10px;
+        width: 10px;
+        height: 11px;
+        margin-left: 11px;
+
+}*/
+
+/* Might want to wrap a span around your checkbox text */
+.checkboxtext
+{
+        /* Checkbox text */
+        font-size: 110%;
+        display: inline;
+        padding-left: 10px;
+}
+.patient_consent{
+        font-size: 14px;
+        line-height: 2.5;
+        text-align: left;
+}
+.view-profile_image{
+
+        height: 102px;
+        overflow: hidden;
+
+}
+.view-profile_image img{
+
+        max-width: 100%;
+        max-height: 100%;
+}
+
+.padng_left{
+        padding-left: 12px;
+}
+
+.views .open>a:focus{
+        background-color: #9c9c9c;
+}
+.views .open>a, .views .open>a:hover, .views .open>a:focus{
+        background-color: #9c9c9c;
+}
+.views>li>a:hover, .views>li>a:focus{
+        background-color: #9c9c9c;
+        color: #fff;
+}
+.menu-views>li>a:hover, .menu-views>li>a:focus{
+        background-color: #9c9c9c;
+        color: #fff;
+}
+.views .dropdown{
+        width: 100px;
+}
+.views .dropdown .caret{
+        float: right;
+        margin-top: 7px;
+}
+.nav.nav-tabs>li>a{
+        background-color: #fff;
+        color:#000;
+}
+.nav-tabs{
+        border-bottom: 1px solid #ddd !important;
+        margin-top: 15px;
+}
+.nav-tabs .active{
+        border-bottom: 1px solid #337ab7;
+}
+.nav-tabs .span-font-size{
+        margin-left: 5px;
+}
+input:focus,select:focus,textarea:focus {
+        border-bottom: 1px solid #337ab7 !important;
+}
+
+.small-forms{
+        border: 1px solid rgba(133, 127, 127, 0.05);
+}
+.small-forms .header-small-forms{
+        color: #555;
+        padding: 20px;
+        position: relative;
+        border-bottom: 1px solid rgba(204, 204, 204, 0.35);
+}
+.small-forms .header-small-forms h4{
+        margin: 0;
+        font-size: 18px;
+        font-weight: normal;
+        color: #111;
+}
+.small-forms .small-forms-form{
+        padding: 20px;
+}
+.staff-salary .form-group{
+        min-height: 30px;
+
+}
+
+.rating {
+        float:left;
+}
+
+/* :not(:checked) is a filter, so that browsers that don’t support :checked don’t
+   follow these rules. Every browser that supports :checked also supports :not(), so
+   it doesn’t make the test unnecessarily selective */
+.rating:not(:checked) > input {
+        position:absolute;
+        top:-9999px;
+        clip:rect(0,0,0,0);
+}
+
+.rating:not(:checked) > label {
+        float:right;
+        width:1em;
+        padding:0 .1em;
+        overflow:hidden;
+        white-space:nowrap;
+        cursor:pointer;
+        font-size:200%;
+        line-height:1.2;
+        color:#ddd;
+        text-shadow:1px 1px #bbb, 2px 2px #666, .1em .1em .2em rgba(0,0,0,.5);
+}
+
+.rating:not(:checked) > label:before {
+        content: '★ ';
+}
+
+.rating > input:checked ~ label {
+        color: #f70;
+        text-shadow:1px 1px #c60, 2px 2px #940, .1em .1em .2em rgba(0,0,0,.5);
+}
+
+.rating:not(:checked) > label:hover,
+.rating:not(:checked) > label:hover ~ label {
+        color: gold;
+        text-shadow:1px 1px goldenrod, 2px 2px #B57340, .1em .1em .2em rgba(0,0,0,.5);
+}
+
+.rating > input:checked + label:hover,
+.rating > input:checked + label:hover ~ label,
+.rating > input:checked ~ label:hover,
+.rating > input:checked ~ label:hover ~ label,
+.rating > label:hover ~ input:checked ~ label {
+        color: #ea0;
+        text-shadow:1px 1px goldenrod, 2px 2px #B57340, .1em .1em .2em rgba(0,0,0,.5);
+}
+
+.rating > label:active {
+        position:relative;
+        top:2px;
+        left:2px;
+}
+form div.required label.control-label:after {
+        content:" * ";
+        color:red;
+}
+.h4-labels{
+        color: #000;
+        font-style: italic;
+        font-weight: bold;
+}
+.second-tab{
+        margin-top: 20px;
+}
+.add-new{
+
+        float: right;
+        margin-top: -12px;
+        cursor: pointer;
+        color: #0e62c7;
+        text-decoration: underline;
+}
+.cbr-replaced .cbr-state{
+        border: 1px solid #000;
+}
+label.cbr-inline{
+        color: #000;
+}
+.disp-image img{
+        width: 80px;
+        height: 80px;
+        float: right;
+        border-radius: 40px;
+}.add-new-label{
+        width: 100px;
+        height: 36px;
+        padding: 10px;
+}.img-box {
+        margin-bottom: 15px;
+}
+
+
+/******************************* Autoload ******************/
+.search-drop{
+        background: white;
+        padding: 6px 0px 6px 5px;
+        border: 1px solid #dedede;
+}
+.search-drop:hover{
+        cursor: pointer;
+}
+.arrow-control{
+        float:right;
+        padding-right: 8px;
+}
+
+#auto-complete .fa.arrow:before{
+        content: "\f078";
+}
+#auto-complete.active .fa.arrow:before{
+        content: "\f077";
+}
+.suggesstion-box{
+        position: absolute;
+        width: 95%;
+        z-index: 50;
+}
+.suggesstion-box-sub{
+        margin-left: 0px;
+        border: 1px solid #9E9E9E;
+        margin-top: 3px;
+        display: none;
+}
+
+#auto-complete.active .suggesstion-box-sub{
+        display:block;
+        background-color: white;
+}
+.new-link-box{
+        margin-left: -8px;
+        margin-bottom: 8px;
+}
+#salesinvoicedetails-busines_partner_code{
+        background: rgb(255, 255, 255);
+        padding: 7px;
+        width: 15%;
+}
+.search-resut-list {
+        float: left;
+        list-style: none;
+        margin-top: 3px;
+        padding: 0;
+        width: 100%;
+        max-height: 175px;
+        overflow-y: scroll;
+        /*position: absolute;*/
+}
+.search-resut-list li {
+        padding: 8px;
+        background: #ffffff;
+        border-bottom: #bbb9b9 1px solid;
+}
+.search-resut-list li:hover {
+        cursor: pointer;
+}
+.search-resut-list > li.auto-complete-selected {
+        background: #00bcd4;
+}
+.pop-up-link{
+        color: #2196F3;
+        font-weight: bold;
+        font-size: 15px;
+        text-align: left;
+}
+.pop-up-link:hover{
+        color: #2196F3;
+}
+.search-link-box{
+        padding: 0px;
+}
+.serch-text{
+        padding: 6px 25px 5px 4px;
+}
+.sales-invoive-no-change{
+        float: right;
+        /*background-color: #2196F3;*/
+        padding: 2px;
+}
+#sales-invoive-no-text{
+        color: #2196F3;
+        font-weight: bold;
+        text-decoration: underline;
+        font-size: 10px;
+}
+.invoice-err .modal-backdrop{
+        display: none;
+}
+.show-list{
+        display: block;
+}
+.hide-list{
+        display: none;
+}
+.form-control-new{
+        margin-bottom: 4px !important;
+}
+.form-control-new table td{
+        background-color: white;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+        padding-top: 0px !important;
+}
+
+.form-control-new .form-control {
+        border-color: white;
+}
+
+.form-control-new .form-group.has-success .form-control {
+        border-color: white;
+}
+
+.auto-complete-item.active .suggesstion-box-sub{
+        display:block;
+        background-color: white;
+}
+.search-resut-list li {
+        text-align: left;
+}
+.search-resut-list > li.autocomplete-item-selected {
+        background: #00bcd4;
+}
+.field-salesinvoicedetails-item_code .search-drop{
+        border: none;
+}
+.item-pop-up-link{
+        color: #2196F3;
+        font-weight: bold;
+        font-size: 15px;
+        text-align: left;
+}
+#add_another_line{
+        color: #2196F3;
+        font-size: 11px;
+        font-weight: bold;
+}
+.fa-shopping-bag:before {
+        content: "\f290";
+        color: white;
+        font-family: FontAwsome;
+}
+.billing-hr{
+        border-top: 2px solid #cdcdcd;
+        padding-bottom: 15px;
+}
+.amount-receipt{
+        border: 1px solid #eeeeee;
+}
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+        background-color: #f9f9f9;
+}
+.receipt-subtittle{
+        float: left;
+}
+.amount-receipt-1{
+        background: #fafafa;
+        border: none;
+}
+.diplay-amount{
+        float: right;
+        margin-right: 75px;
+        font-weight: bold;
+        font-size: 22px;
+        color: #3F51B5;
+}.sales-invoice-delete{
+        margin-top: 10px;
+        font-size: 14px;
+        color: red;
+        cursor: pointer;
+}.user-info-navbar .user-info-menu>li>a {
+
+        padding: 15px 20px;
+}.user-info-navbar .user-info-menu>li>a .badge {
+        font-size: 7px;
+        top: 2px;
+        right: 5px;
+}
+
+
+.div-add-new{
+    height: 30px;
+    padding: 10px;
+}.div-add-new a{
+    text-decoration: none;
+} 
+#pop-form .form-control{
+    border:1px solid #eee;
+}
+#pop-form .form-control:focus{
+    border:1px solid #eee!important;
+
+}.pop-heading{
+    color: #b60d14;
+}.pop-submit-btn{
+    margin-top: 20px;
+    margin-left: 23px;
+} .marg0{
+    margin-left: 0;
+}.add-option-dropdown{
+text-decoration:none;
+}.page-size-dropdwn{
+        height: 30px !important;
+        line-height: 30px;
+        font-size: 13px;
+        display: inline-block;
+        padding: 0px 0px 0px 7px;
+}
+.dropdown-backdrop{
+        z-index: 1 !important;
+}
+
+
+

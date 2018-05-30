@@ -1,0 +1,30 @@
+.btn {
+	outline: 0;
+	border: 1px solid transparent;
+	margin-bottom: 10px;
+}
+.btn-success {
+	color: #fff;
+	background-color: #8dc63f;
+	border-color: #80b636;
+}
+.btn {
+	display: inline-block;
+	font-weight: 400;
+	text-align: center;
+	touch-action: manipulation;
+	cursor: pointer;
+	background-image: none;
+	white-space: nowrap;
+	padding: 6px 12px;
+	font-size: 13px;
+	line-height: 1.42857143;
+	border-radius: 0;
+	user-select: none;
+	text-decoration: none;
+}
+
+.mail-body .content{
+	margin-left: 26px;
+	align-content: center;
+}
